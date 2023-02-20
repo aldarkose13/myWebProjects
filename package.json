@@ -1,0 +1,25 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "A simple node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldarkose13/myWebProjects.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "aldarkose13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldarkose13/myWebProjects/issues"
+  },
+  "homepage": "https://github.com/aldarkose13/myWebProjects#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
